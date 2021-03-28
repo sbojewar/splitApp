@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">splitApp</string>
+    <string name="resimage">resimage</string>
+    <string name="Split1"> Welcome to  Split the Bill! </string>
+    <string name="btnsplithint">Tap to see the split</string>
+    <string name="btnsplittxt">Show Split</string>
+    <string name="btncalculate">calculate</string>
+    <string name="Split2"> Restaurant bill </string>
+    <string name="Split3"> No.of people in your group </string>
+    <string name="Split4"> Tip </string>
+    <string name="Split5"> Individual share </string>
+    <string-array name="txtGroup">
+        <item>Excellent</item>
+        <item>Average</item>
+        <item>Poor</item>
+    </string-array>
+</resources>
